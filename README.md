@@ -12,4 +12,4 @@ I have added `credentials.json` in the `.gitignore`, but I have an example `exam
 
 The Google Sheet URL is:
 
-[Google Sheet Link](https://docs.google.com/spreadsheets/d/1dOHHogF4wgu4stGXcl_coS5vQ-FmS4D_6YYrdUXHT3Y/edit?gid=0)
+[Google Sheet Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vT6LvIUwm5H7KCwIlPS1bE674EmujGbvxqiXdOSmGGHnkMQZttB4IW69TeLTuXJkN_T3-e9wCwJyCx_/pubhtml)
